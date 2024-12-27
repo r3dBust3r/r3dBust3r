@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3dbust3r&label=Profile%20views&color=0e75b6&style=flat" alt="r3dbust3r" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3dbust3r" alt="r3dbust3r" /></a> </p>
-<p align="left"> <a href="https://twitter.com/otmanetalhaoui" target="blank"><img src="https://img.shields.io/twitter/follow/otmanetalhaoui?logo=twitter&style=for-the-badge" alt="otmanetalhaoui" /></a> </p>
+<p align="left"> <a href="https://twitter.com/otmanetalhaoui" target="blank"><img src="https://img.shields.io/twitter/follow/otmanetalhaoui?logo=twitter&style=for-the-badge" alt="r3dBust3r" /></a> </p>
 
 - I’m currently learning **penetration testing on TryHackMe**
 
-- You can reach me on linkedin **https://www.linkedin.com/in/otmane-talhaoui/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/otmanetalhaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otmanetalhaoui" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/otmane-talhaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otmane-talhaoui" height="30" width="40" /></a>
+<a href="https://twitter.com/otmanetalhaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r3dBust3r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/otmane-talhaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r3dBust3r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

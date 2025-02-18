@@ -1,6 +1,5 @@
 <header>
-    <h1>Hi, I am r3dBust3r</h1> 
-    <h3>a FullStack Web Developer, Studied Networking as my Main Field, Recently I moved to CyberSecurity!</h3>
+    <h1>Hi, I am r3dBust3r</h1>
 </header>
 
 <p> 

@@ -5,6 +5,8 @@
 🛡️ **Currently diving deep into Cybersecurity**  
 🚀 **Passionate about Hacking and Cyber Security**
 
+[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=874874)](https://tryhackme.com/p/874874)
+
 ![Animated Banner](./animated-image.webp)
 
 ---

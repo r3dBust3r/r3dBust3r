@@ -5,7 +5,7 @@
 🛡️ **Currently diving deep into Cybersecurity**  
 🚀 **Passionate about Hacking and Cyber Security**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/r3dBust3r.png" alt="THM Profile" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/r3dBust3r.png" alt="r3dBust3r" />
 
 
 ![Animated Banner](./animated-image.webp)

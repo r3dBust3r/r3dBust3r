@@ -51,21 +51,21 @@
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://assets.tryhackme.com/room-badges/79abc61f642b8c1f40a1c31e61b1e9a5.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/e59e5cfd1d14329412cb28e2d97921b2.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/edd3af4092ff404cf0cddbb1f8c27bed.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/b3d60dc40e5ee11863f77411afdedb32.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/2cff9df3b963bf11b884161509398e51.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/aa50e6193779bf0483a3768630114caf.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/f80d1a27751ab4d76891446316869238.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/7cef3a86eaadb3f3f874c9472820db97.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/f8983d4b7e9fc8f35d12d1fef9f9477c.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/9e9d87b637ec8701c608a6e1c896857e.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/e79ef96d39645b3dc7ec720cde87eedb.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/4ca82e957e51ed2c2edddd5ed7538777.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/f4994112ea1405774f5520861fb2b35e.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/b380f2cfe20c37629b377b8529181db6.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/48064e163e7be591ae3e29a14499d181.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/6f3dacbe4ddbac85a5b4d4fe157c5003.png" style="width: 25%;" />
-  <img src="https://assets.tryhackme.com/room-badges/0ac362b2a62d4e4c530c647ed1c4e9e9.png" style="width: 25%;" />
+  <img src="https://assets.tryhackme.com/room-badges/79abc61f642b8c1f40a1c31e61b1e9a5.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/e59e5cfd1d14329412cb28e2d97921b2.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/edd3af4092ff404cf0cddbb1f8c27bed.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/b3d60dc40e5ee11863f77411afdedb32.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/2cff9df3b963bf11b884161509398e51.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/aa50e6193779bf0483a3768630114caf.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/f80d1a27751ab4d76891446316869238.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/7cef3a86eaadb3f3f874c9472820db97.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/f8983d4b7e9fc8f35d12d1fef9f9477c.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/9e9d87b637ec8701c608a6e1c896857e.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/e79ef96d39645b3dc7ec720cde87eedb.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/4ca82e957e51ed2c2edddd5ed7538777.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/f4994112ea1405774f5520861fb2b35e.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/b380f2cfe20c37629b377b8529181db6.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/48064e163e7be591ae3e29a14499d181.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/6f3dacbe4ddbac85a5b4d4fe157c5003.png" style="width: 24.5%;" />
+  <img src="https://assets.tryhackme.com/room-badges/0ac362b2a62d4e4c530c647ed1c4e9e9.png" style="width: 24.5%;" />
 </div>
